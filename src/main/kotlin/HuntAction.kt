@@ -1,0 +1,2 @@
+class HuntAction(animal : String) {
+}
