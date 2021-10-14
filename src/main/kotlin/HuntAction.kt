@@ -1,2 +1,2 @@
-class HuntAction(animal : String) {
+class HuntAction(animal : String) : Action() {
 }
